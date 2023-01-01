@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <test name="Base Test suite">
+        <classes>
+            <class name="org.vodafone.AutocompleteTest"/>
+            <class name="org.vodafone.SearchTest"/>
+        </classes>
+    </test>
+</suite>
